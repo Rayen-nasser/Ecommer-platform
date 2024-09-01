@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Rayen-nasser/server-shopping.git
+[submodule "frontend/admin"]
+	path = frontend/admin
+	url = https://github.com/Rayen-nasser/admin-stock-interface.git
+[submodule "frontend/client"]
+	path = frontend/client
+	url = https://github.com/Rayen-nasser/user-shopping-interface.git
